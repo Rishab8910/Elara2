@@ -1,1 +1,0 @@
-# Agent to monitor and communicate with Elara system
